@@ -47,7 +47,20 @@ def calculate_energy():
 
 # ---------------------------- Main Function ----------------------------
 def main():
-    # Call your functions in the main!
+    
+    # Exercise I
+    ...
+
+    # Exercise II
+    h = 5 
+    R = 3
+    r =2 
+    ...
+
+    # Exercise III
+    a = 3
+    b = 2.5
+    c = 4
     ...
 
 if __name__ == "__main__":
